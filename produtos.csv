@@ -1,0 +1,21 @@
+codigo,marca,tipo,categoria,preco_unitario,custo,obs
+1001,Samsung,Smartphone Galaxy A15,Eletronicos,1199.90,850.00,Garantia de 12 meses
+1002,Apple,iPhone 13 128GB,Eletronicos,3999.00,3200.00,
+1003,Xiaomi,Redmi Note 13,Eletronicos,1499.00,1050.00,Acompanha carregador
+1004,JBL,Caixa de Som Flip 6,Audio,799.90,520.00,Resistente a agua
+1005,Sony,Fone de Ouvido WH-CH520,Audio,299.00,180.00,
+1006,Logitech,Mouse sem Fio M170,Perifericos,89.90,48.00,Cor preta
+1007,Logitech,Teclado Mecanico G413,Perifericos,449.00,290.00,Layout ABNT2
+1008,Dell,Notebook Inspiron 15,Informatica,3299.00,2650.00,Entrega em 5 dias uteis
+1009,Lenovo,Notebook IdeaPad 3,Informatica,2799.00,2200.00,
+1010,Kingston,Pen Drive 64GB,Armazenamento,39.90,19.00,
+1011,SanDisk,Cartao de Memoria 128GB,Armazenamento,69.90,38.00,Classe 10
+1012,Samsung,SSD 500GB 980,Armazenamento,349.00,230.00,Garantia de 36 meses
+1013,TP-Link,Roteador Archer C6,Redes,249.00,155.00,
+1014,Multilaser,Cabo HDMI 2m,Acessorios,24.90,9.00,
+1015,Anker,Carregador Rapido 20W,Acessorios,89.00,45.00,Item mais vendido
+1016,Philips,Lampada Smart Wi-Fi,Casa Inteligente,59.90,31.00,
+1017,Intelbras,Camera de Seguranca Mibo,Casa Inteligente,199.00,125.00,Gravacao em nuvem opcional
+1018,Dell,Monitor 24 Polegadas,Informatica,899.00,640.00,
+1019,HP,Impressora Multifuncional,Informatica,749.00,520.00,Tinta nao inclusa
+1020,Redragon,Headset Gamer Zeus,Audio,229.00,140.00,
